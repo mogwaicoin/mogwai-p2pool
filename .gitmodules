@@ -1,0 +1,3 @@
+[submodule "mogwai_hash"]
+	path = mogwai_hash
+	url = https://randallpeltzer@bitbucket.org/mogwaicoin/mogwai_hash.git
